@@ -1,5 +1,5 @@
 # Naive-Bayes-Classifier
-## Predicting the survivalibity in the Titanic accident using Gaussian Naive Bayes model.
+## Predicting the survivability in the Titanic accident using Gaussian Naive Bayes model.
 
 Dataset is included in the [repo](https://github.com/SohamGhugare/Naive-Bayes-Classifier/) ([titanic.csv](https://github.com/SohamGhugare/Naive-Bayes-Classifier/blob/main/titanic.csv))
 
